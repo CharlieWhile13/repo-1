@@ -1,0 +1,38 @@
+{
+    "bundle_id": "com.superbro.frstickerpack",
+    "name": "Fr Sticker Pack",
+    "version": "1.1",
+    "tagline": "Fr emotes for Imessage",
+    "developer": {
+        "name": "Superbro",
+        "email": "superbrodev@gmail.com"
+    },
+    "maintainer": {
+        "name": "Superbro",
+        "email": "superbrodev@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/suuperbro"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/Superbro9"
+        }
+    ],
+    "section": "Stickers",
+    "conflicts": "com.superbro.frstickerpack",
+
+    "tint": "#8700ef",
+    "works_min": "11.0",
+    "works_max": "14.X",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "1.1",
+            "changes": "Fixed issues with it not showing up in IMessage"
+        }
+    ]
+}
