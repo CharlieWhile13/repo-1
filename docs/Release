@@ -1,0 +1,12 @@
+Origin: Superbro's Repo
+Label: Superbro's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Christmas themed Pepe emotes for Imessgage
+
+SHA256:
+ 22d959f98b5916a649573806527f2b4ea827dd3c750591c70a365f4a15c7b293 558 Packages.bz2
+ d076d068ccfa1ffcfdd6db55336bc55b848797093b2e31ecb2ad5b690fd909bd 556 Packages.xz
